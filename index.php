@@ -1,6 +1,6 @@
 <?php
 
 echo 5;
-echo " moa88";
+echo " mo   a88";
 # more add line
 ?>
